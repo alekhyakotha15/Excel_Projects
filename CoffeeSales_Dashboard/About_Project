@@ -1,0 +1,16 @@
+Coffee Sales Analysis Dashboard 
+
+This project features an interactive Coffee Sales Analysis Dashboard built using Excel. The dashboard provides key insights into coffee sales trends, customer behavior and performance metrics.
+
+Key Features
+- Sales Over Time: Tracks revenue trends over different periods.
+- Top 5 Customers: Identifies the highest-spending customers.
+- Sales by Country: Visualizes revenue distribution across regions.
+- Sales Performance by different Coffee: Compares the performance of different coffee variants.
+- Customer Loyalty Analysis: Shows the proportion of customers who have loyalty card and not.
+
+Tech Stack:
+- Data Processing & Cleaning: Excel
+- Visualization: Excel Charts
+
+This project demonstrates data-driven decision-making by providing actionable insights into coffee sales.
